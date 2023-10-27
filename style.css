@@ -1,0 +1,147 @@
+.box {
+    height: 935px;
+    position: relative;
+    width: 1768px;
+  }
+  
+  .box .content {
+    background-color: #ffffff;
+    height: 935px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 1768px;
+  }
+  
+  .box .logoncc {
+    height: 122px;
+    left: 729px;
+    object-fit: cover;
+    position: absolute;
+    top: 20px;
+    width: 310px;
+  }
+  
+  .box .group {
+    height: 210px;
+    left: 129px;
+    position: absolute;
+    top: 172px;
+    width: 1514px;
+  }
+  
+  .box .overlap-group {
+    background-color: #efefef;
+    height: 210px;
+    position: relative;
+    width: 1510px;
+  }
+  
+  .box .text-wrapper {
+    color: #000000;
+    font-family: "Roboto-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 634px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 38px;
+    white-space: nowrap;
+  }
+  
+  .box .div {
+    color: #000000;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 95px;
+    left: 269px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 77px;
+    width: 972px;
+  }
+  
+  .box .overlap-wrapper {
+    height: 252px;
+    left: 129px;
+    position: absolute;
+    top: 422px;
+    width: 476px;
+  }
+  
+  .box .overlap {
+    background-color: #ffffff;
+    height: 252px;
+    position: relative;
+    width: 470px;
+  }
+  
+  .box .p {
+    color: #000000;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 180px;
+    width: 470px;
+  }
+  
+  .box .text-wrapper-2 {
+    color: #000000;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 144px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 46px;
+    width: 326px;
+  }
+  
+  .box .text-wrapper-3 {
+    color: #000000;
+    font-family: "Roboto-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 470px;
+  }
+  
+  .box .img {
+    height: 128px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 46px;
+    width: 128px;
+  }
+  
+  .box .overlap-group-wrapper {
+    height: 252px;
+    left: 649px;
+    position: absolute;
+    top: 422px;
+    width: 476px;
+  }
+  
+  .box .div-wrapper {
+    height: 252px;
+    left: 1169px;
+    position: absolute;
+    top: 422px;
+    width: 476px;
+  }
+  
